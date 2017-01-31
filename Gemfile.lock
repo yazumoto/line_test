@@ -55,6 +55,7 @@ GEM
       activesupport (>= 3.0.0, < 5.1)
       multi_json (~> 1.2)
     json (1.8.6)
+    line-bot-api (1.1.0)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
     mail (2.6.4)
@@ -134,6 +135,7 @@ PLATFORMS
 DEPENDENCIES
   dotenv-rails
   jbuilder (~> 2.0)
+  line-bot-api
   pry-rails
   rails (= 4.2.7.1)
   rb-readline
